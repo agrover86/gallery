@@ -1,0 +1,6 @@
+
+/******* HomePage Pagination ********/
+.row .pager .active a {
+  background-color: #000 !important;
+  color: #fff !important;
+}
